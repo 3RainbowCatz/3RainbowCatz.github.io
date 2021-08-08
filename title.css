@@ -1,0 +1,24 @@
+html, body {
+    font-family: Roboto, "Open Sans", "Segoe UI";
+    padding: 0;
+    margin: 0;
+}
+header {
+    padding: 15px 30px;
+    background-color: black;
+    color: white;
+}
+header > span {
+    font-size: 20px;
+    font-weight: 500;
+}
+header div {
+    float: right;
+}
+header div a {
+    margin-left: 20px;
+    color: white;
+}
+div.body {
+    padding: 30px;
+}
